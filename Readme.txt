@@ -1,1 +1,1 @@
-This is a very simple CD/CI pipeline that icreated for an interview project.
+This is a very simple CD/CI pipeline that I created for an interview project.
