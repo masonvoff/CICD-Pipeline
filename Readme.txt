@@ -1,0 +1,1 @@
+This is a very simple CD/CI pipeline that icreated for an interview project.
